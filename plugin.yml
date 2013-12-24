@@ -1,0 +1,5 @@
+name: OnesieFireworks
+author: OnesRodriguez
+version: 1.1.0
+description: This plugin unleashes a banger, or a firework, on player join.
+main: me.OnesRodriguez.OnesieFireworks.Main
